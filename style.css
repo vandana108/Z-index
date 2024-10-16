@@ -12,6 +12,14 @@
   padding: 1rem;
   font-size: 1.5rem;
   border-radius: 8px;
-  color: white;
+  color: rgb(62, 194, 53);
+ } 
+ .red-box{
+  background-color: red;
  }
- 
+ .green-box{
+  background-color: green;
+ }
+ .blue-box{
+  background-color: blue;
+ }
